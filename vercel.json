@@ -1,0 +1,12 @@
+{
+    "rewrites": [
+      { "source": "/inicio", "destination": "/index.html" },
+      { "source": "/sobre-nos", "destination": "/about.html" },
+      { "source": "/servicos", "destination": "/service.html" },
+      { "source": "/projetos", "destination": "/project.html" },
+      { "source": "/contato", "destination": "/contact.html" },
+      { "source": "/termos-e-condicoes", "destination": "/termos-e-condicoes.html" },
+      { "source": "/politica-de-privacidade", "destination": "/politica-privacidade.html" },
+      { "source": "/politica-de-cookies", "destination": "/politica-de-cookies.html" }
+    ]
+  }  
