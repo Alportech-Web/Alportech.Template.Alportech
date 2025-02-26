@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /privado/
+Allow: /
+
+Sitemap: https://www.alportech.com.br/sitemap.xml
